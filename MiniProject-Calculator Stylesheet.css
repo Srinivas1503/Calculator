@@ -1,0 +1,113 @@
+body{
+    background-image: url("Calc.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+table{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #755139FF;
+    margin-top: 200px;
+    background-color: #755139FF;
+    box-shadow: 8px 8px #F2EDD7FF;            
+}
+
+#brd{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: #00203FFF;
+}
+
+#add{
+    width: 84px;
+    height: 75px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+#clc{
+    width: 84px;
+    margin-top: 10px;
+}
+
+#div{
+    width: 40px;
+}
+
+#mul{
+    width: 40px;
+    margin-right: 10px;
+}
+
+#sub{
+    width: 40px;
+}
+
+#mod{
+    width: 40px;
+    margin-right: 10px;
+}
+
+#result{
+    width: 245px;
+    margin-top: 10px;
+    margin-left:10px;
+}
+
+#n0{
+   width: 80px;
+   margin-bottom: 10px;
+}
+
+#n1{
+    width: 80px;
+    margin-left:10px;
+}
+
+#n2{
+    width: 80px;
+}
+
+#n3{
+    width: 80px;
+}
+
+#n4{
+    width: 80px;
+    margin-left:10px;
+}
+
+#n5{
+    width: 80px;
+}
+
+#n6{
+    width: 80px;
+}
+
+#n7{
+    width: 80px;
+    margin-left:10px;
+}
+
+#n8{
+    width: 80px;
+}
+
+#n9{
+    width: 80px;
+}
+
+#dot{
+    width: 80px;
+    margin-left:10px;
+    margin-bottom: 10px;
+}
+
+#eqls{
+    width: 80px;
+    margin-bottom: 10px;
+}
+
